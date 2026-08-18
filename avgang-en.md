@@ -1,6 +1,6 @@
 # Privacy Policy — Avgang
 
-*Effective date: 17 August 2026* · [Norsk versjon](avgang)
+*Effective date: 18 August 2026* · [Norsk versjon](avgang)
 
 ## Summary
 

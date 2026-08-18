@@ -1,6 +1,6 @@
 # Personvernerklæring — Avgang
 
-*Gjelder fra: 17. august 2026* · [English version](avgang-en)
+*Gjelder fra: 18. august 2026* · [English version](avgang-en)
 
 ## Oppsummering
 
