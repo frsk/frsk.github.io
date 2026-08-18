@@ -20,7 +20,7 @@ Søket etter nærmeste holdeplass gjøres på enheten din, mot en holdeplasslist
 
 ## Tredjepart — Entur
 
-For å vise sanntidsavganger henter appen data fra det offentlige API-et til Entur (entur.no). Forespørsler inneholder identifikatorer for holdeplassene du ser på, men ikke posisjonen din. For detaljer om hvordan Entur behandler data, se [Enturs personvernerklæring](https://www.entur.org/om-entur/personvern/).
+For å vise sanntidsavganger henter appen data fra det offentlige API-et til Entur (entur.no). Forespørsler inneholder identifikatorer for holdeplassene du ser på, men ikke posisjonen din. For detaljer om hvordan Entur behandler data, se [Enturs personvernerklæring](https://om.entur.no/personvern).
 
 Avgangsdata leveres av Entur under [Norsk lisens for offentlige data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0).
 

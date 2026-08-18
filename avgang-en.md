@@ -20,7 +20,7 @@ Finding the nearest stops is done on your device, against a stop list that ships
 
 ## Third-party services — Entur
 
-To display real-time departure information, the app queries the public API operated by Entur (entur.no). Queries include the identifiers of transit stops you view, but not your location. For details on how Entur handles data, please refer to [Entur's privacy policy](https://www.entur.org/om-entur/personvern/).
+To display real-time departure information, the app queries the public API operated by Entur (entur.no). Queries include the identifiers of transit stops you view, but not your location. For details on how Entur handles data, please refer to [Entur's privacy policy](https://om.entur.no/personvern).
 
 Departure data is provided by Entur under the [Norwegian Licence for Open Government Data (NLOD) 2.0](https://data.norge.no/nlod/no/2.0).
 
